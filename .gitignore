@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+hammer_description
+dinov2_vits14_pretrain.pth
+hammer_description.usd
+videos
+media
